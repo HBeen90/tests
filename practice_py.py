@@ -97,7 +97,7 @@ print('='*10, 'day6', '='*10)
 print(temp[0], temp[-1])
 print(temp[2:-2])
 print(temp[::-1])
-'''
+
 #Day7
 
 text = "chemical"
@@ -113,7 +113,7 @@ for i in text:
         t[i]=1
         
 print(t)
-
+'''
  
 
 
